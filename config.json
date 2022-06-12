@@ -1,0 +1,90 @@
+﻿{
+    "bot": {
+        "owner": "850797700349427763",
+        "prefix": ".",
+        "BotStatus": "Liberté ❤️ quatro",
+        "cooldown": 8,
+        "iltifatsize": 100
+    },
+    "penals": {
+        "ban": {
+            "staff": "",
+            "log": "",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "",
+            "roles": "",
+            "log": "",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "",
+            "roles": "",
+            "log": "",
+            "limit": 5
+        },
+        "warn": {
+            "staff": "",
+            "log": ""
+        },
+        "points": {
+            "mutepoints": "10",
+            "banpoints": "30",
+            "jailpoints": "20",
+            "warnpoints": "5"
+        }
+    },
+    "logs": {
+        "messagelog": "966055290732691546",
+        "voicelog": "966055292053897286",
+        "taglog": "966055294440448010"
+    },
+    "roles": {
+        "boosterrole": "966068935508258930",
+        "viprole": "966055104342020266",
+        "designerrole": "966055125640683580",
+        "musiciansrole": "966055123333820438",
+        "team": "966055103230509158",
+        "sponsored": "966055132213162044"
+    },
+    "channels": {
+        "chat": "966055232691896340",
+        "voicechannel": "937698197684502577",
+        "welcomechannel": "937698196514279493",
+        "rules": "937698196866625623"
+    },
+    "parents": {
+        "publicparents": "937698198485602373"
+    },
+    "registration": {
+        "unregistered": "937698195855773722",
+        "man": "937698195855773725",
+        "woman": "937698195885158422",
+        "staff": "937698195998404648",
+        "GuilDTag": "✶",
+        "TagSymbol": "✶",
+        "autonickname": "İsim | Yaş",
+        "symbol": "|",
+        "suspecios": "937698195809652846",
+        "suspeciosnickname": "$ Şüpheli Hesap",
+        "oneman": "937698195855773725",
+        "onewoman": "937698195885158422",
+        "minage": 13, 
+        "purchase": false
+    },
+    "Guild": {
+        "GuildID": "937698195394412575",
+        "GuilDName": "✶ Z E L S A",
+        "GuildOwnerRole": ["937698196073893929"]
+    },
+    "emojis": {
+        "tada": "<a:konfetigif:937714799582785557>",
+        "yes": "<a:OnaylamakGif:937706019780436028>",
+        "no": "<a:ReddetmekGif:937705913916219433>"
+    },
+    "buttons": {
+        "giveaway": "937698195855773720",
+        "activity": "937698195855773719"
+    }
+}
